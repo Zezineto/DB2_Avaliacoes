@@ -5,7 +5,9 @@ O arquivo "Zips.json" possui uma lista das cidades dos estados unidos contendo o
 EXEMPLO:
 (alabama)
 STATE: AL, CITY: Atmore;
+
 STATE: AL, CITY: Efaula;
+
 STATE: AL, CITY: Leeds;
 Etc...
 
