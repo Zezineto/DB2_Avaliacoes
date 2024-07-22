@@ -44,7 +44,6 @@ Agora para usar o terminal linux contido no docker e preparar os arquivos para o
   # hdfs dfs -mkdir -p /user/root/input
   # cd tmp
   tmp# hdfs dfs -put zips.json /user/root/input
-  
 ```
 Para testar o código feito chamamos sua "função" `JsonSortingJob`, que usa o arquvio json contigo no diretorio input como base
 
@@ -55,4 +54,8 @@ Apos isso o código sera rodado e sera criado um diretorio outpout que não cont
 ```
   tmp# hdfs dfs -ls /user/root
 ```
-
+No fim de tudo para desativar o docker basta rodar o seguinte
+```
+  tmp# exit
+  docker-compose down
+```
