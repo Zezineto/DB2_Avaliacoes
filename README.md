@@ -1,3 +1,6 @@
+# Feito por
+Fabricio Rodrigues, Fábio Junior, Gabriel Batistuta, Zezineto Mendes, Joao Victor Freitas.
+
 # Introdução
 Este repositório contem o trabalho de hadoop feito pelo Docker do grupo SunDB; Ele contem o PDF com a apresentação e os arquivos usados.<br/>
 O código para usar o hadoop pelo docker foi baseado no repositorio: https://github.com/big-data-europe/docker-hadoop, que esta contido no repositorio atual.<br/>
